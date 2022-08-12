@@ -235,7 +235,7 @@ span {
   .first p {
     margin-top: -10px;
     width: 60%;
-    font-size: 16px;
+    font-size: 19px;
   }
 
   /* second article */
@@ -244,19 +244,20 @@ span {
     grid-area: rating;
     display: flex;
     flex-direction: column;
-    /* align-items: flex-end; */
     justify-content: center;
   }
 
   .rating {
     margin-left: 280px;
-    display: flex;
     flex-direction: row;
     max-width: 400px;
     gap: 20px;
+    font-size: 16px;
   }
 
   .rating-1 {
+    display: flex;
+    justify-content: center;
     margin-left: 180px;
   }
 
@@ -264,13 +265,13 @@ span {
     margin-left: 230px;
   }
 
-  /* .third {
-    display: flex;
-    gap: 30px;
-    grid-area: card;
+  .rating-3 {
+  display: flex;
     justify-content: center;
-  } */
+  }
 
+
+  /* third article */
   .card {
     align-self: center;
     max-width: 340px;
