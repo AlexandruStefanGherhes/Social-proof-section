@@ -34,7 +34,7 @@ Mobile version
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/AlexandruStefanGherhes/Social-proof-section.git)
-- Live Site URL: [GitHub Pages Live URL](https://alexandrustefangherhes.github.io/Nft-preview/)
+- Live Site URL: [GitHub Pages Live URL](https://alexandrustefangherhes.github.io/Social-proof-section/)
 
 ## My process
 
